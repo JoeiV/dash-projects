@@ -1,6 +1,6 @@
 # dash-projects
 
-Simple, one-page examples of the following basic apps/websites: 
+One-page examples of the following types of websites/apps: 
 
 - Personal blog
 - Business website
