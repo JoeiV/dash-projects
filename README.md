@@ -1,4 +1,4 @@
-# dash-projects
+# Project Examples
 
 One-page examples of the following types of websites/apps: 
 
